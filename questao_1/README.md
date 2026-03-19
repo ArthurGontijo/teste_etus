@@ -4,7 +4,7 @@
 
 ## Como acessar a análise
 
-Na mesma pasta em que este markdown está localizado há um arquivo chamado `analise.ipynb`. As análises nele já estão rodadas, então não há necessidade de fazer nenhuma configuração prévia caso o usuário apenas queira ler o código e as recomendações. As células de código são acompanhadas por interpretações detalhadas em linguagem de negócios e visualizações de dados. Caso você não tenha interesse na implementação técnica, pode seguir a leitura apenas pelos comentários e análises que sucedem cada bloco de código.
+Na mesma pasta em que este markdown está localizado há um arquivo chamado `analise.ipynb`. As análises nele já estão rodadas, então não há necessidade de fazer nenhuma configuração prévia caso o usuário apenas queira ler o código e as recomendações. As células de código são acompanhadas por interpretações detalhadas em linguagem não técnica. Caso você não tenha interesse na implementação técnica, pode seguir a leitura apenas pelos comentários e análises que sucedem cada bloco de código.
 
 A parte mais importante do notebook, para aqueles interessados nas conclusões é a sessão 1.3. Onde há um resumo das descobertas e recomendações feitas durante a análise.
 
